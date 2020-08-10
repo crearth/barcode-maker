@@ -1,5 +1,3 @@
-function genBarcode(){
-    JsBarcode("#barcode", "201500192")
+function genBarcode1(){
+    JsBarcode("#barcode", "204000192")
 }
-
-//JsBarcode("#barcode", "201500192");
